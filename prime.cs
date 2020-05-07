@@ -12,9 +12,7 @@ namespace PrimeFinder{
 
       List<int> distinct = numbers.ToList();
 
-      int index = 0;
-
-      while (index < distinct.Count)
+      for (int index = 0; index < distinct.Count; index++)
       {
         int removeNum = distinct[index];
         int startNum = distinct[index];
@@ -23,7 +21,6 @@ namespace PrimeFinder{
           removeNum += startNum;
           distinct.Remove(removeNum);
         }
-        index += 1;
       }
       return distinct;
     }
