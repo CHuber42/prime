@@ -1,0 +1,11 @@
+C:\Users\maili\github\prime-sifting\obj\Debug\netcoreapp2.2\prime.csprojAssemblyReference.cache
+C:\Users\maili\github\prime-sifting\obj\Debug\netcoreapp2.2\prime.csproj.CoreCompileInputs.cache
+C:\Users\maili\github\prime-sifting\obj\Debug\netcoreapp2.2\prime.AssemblyInfoInputs.cache
+C:\Users\maili\github\prime-sifting\obj\Debug\netcoreapp2.2\prime.AssemblyInfo.cs
+C:\Users\maili\github\prime-sifting\bin\Debug\netcoreapp2.2\prime.deps.json
+C:\Users\maili\github\prime-sifting\bin\Debug\netcoreapp2.2\prime.runtimeconfig.json
+C:\Users\maili\github\prime-sifting\bin\Debug\netcoreapp2.2\prime.runtimeconfig.dev.json
+C:\Users\maili\github\prime-sifting\bin\Debug\netcoreapp2.2\prime.dll
+C:\Users\maili\github\prime-sifting\bin\Debug\netcoreapp2.2\prime.pdb
+C:\Users\maili\github\prime-sifting\obj\Debug\netcoreapp2.2\prime.dll
+C:\Users\maili\github\prime-sifting\obj\Debug\netcoreapp2.2\prime.pdb
