@@ -10,9 +10,14 @@ public class program
   {
       Console.WriteLine("Give me a number, and I will tell you all the primes leading up to it.");
       int userNumber = int.Parse(Console.ReadLine());
-      CPrimeFinder.FindPrimes(userNumber);
+      List<int> primes = CPrimeFinder.FindPrimes(userNumber);
+
+      foreach (int num in primes)
+      {
+        Console.WriteLine(num);
+      }
 
     }
-}
+  }
 
 }
